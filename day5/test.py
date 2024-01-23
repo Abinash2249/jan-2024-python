@@ -12,3 +12,6 @@ data = ["a", "e", "i", "o", "u"]
 print(data * 2)
 data.pop()
 print(data)
+
+
+print(a/b)
