@@ -6,4 +6,4 @@ print(a-b)  # Subtraction
 
 c = 55
 d = 35
-print(c/d)  # Division
+print(c%d)  # Modulus
