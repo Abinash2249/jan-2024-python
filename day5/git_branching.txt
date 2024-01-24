@@ -15,7 +15,7 @@
 
 
 # Steps to create a merge conflict
-1. Make changes in branch1 in a particular file
+1. Make changes in branch1 in a particular file, then add and commit
 2. Checkout to main
 3. Merge the merge branch1
 4. Make changes in the same line of the file in main branch
