@@ -1,0 +1,11 @@
+1. git status
+    => Provides the current status of the repo
+
+2. git clone <project_ssh_link>
+    => Downloads the repo to local device
+
+3. git branch -D <branch_name>
+    => Deletes branch from local
+
+4. git reset
+    => Incase if you have added and want to remove it from stage
