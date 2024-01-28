@@ -21,7 +21,7 @@ Python is a high level language
 '''
 
 data = "I'm learning Python"
-data = 'He said, "Python is high level language"'
+# data = 'He said, "Python is high level language"'
 
 
 # Accessing string items
@@ -50,8 +50,8 @@ print(data[-5:])  # guage
 # We cannot update string elements because string is an immutable datatype
 
 data = "I am learning"
-data[5] = "L"  # This raises error. We can't change the particular position of a string data.
-del data[5]  # This is also not possible
+# data[5] = "L"  # This raises error. We can't change the particular position of a string data.
+# del data[5]  # This is also not possible
 
 # But we can delete the string object
 del data   # It deletes the string object
