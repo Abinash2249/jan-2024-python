@@ -25,3 +25,5 @@ print(result)
 result = {key: value for key, value in [("name","Jon"), ("age", 30), ("address", "KTM")]}
 print(result)
 
+result = {i : i*2 for i in range(1,10)}
+print(result)
