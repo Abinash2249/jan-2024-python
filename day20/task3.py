@@ -18,3 +18,8 @@ for student in students:
     if student["name"] == "Hary":
         print(f"Address of Hary is {student['address']}")
         break
+
+
+# postgres
+# psql -U postgre
+# pgadmin
