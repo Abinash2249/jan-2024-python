@@ -4,7 +4,7 @@
 # Arithmetic Operators
 # Logical Operators
 # Relational Operators
-# Assignment Operators
+# Assignment2 Operators
 # Membership Operators
 # Identity Operators
 
@@ -64,7 +64,7 @@ if a > b or b == c:
     print("Hello World")
 
 
-# Assignment Operator (=, +=, -=, *=, /=)
+# Assignment2 Operator (=, +=, -=, *=, /=)
 message = "Hello World"
 b = 5
 b = b + 5

@@ -2,7 +2,7 @@ from estd_connection import estd_connection
 
 cursor = estd_connection()
 
-# cursor_execute("DROP TABLE STUDENT")
+# cursor.execute("DROP TABLE STUDENT")
 
 sql = """
 CREATE TABLE STUDENT(

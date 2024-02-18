@@ -1,7 +1,7 @@
 # Arithmetic operators: +, -, *, /, %, **
 # Logical operators: and, or
 # Relational or Comparison operators: ==, <=, >=, <, >
-# Assignment operators: =+, -+, *=, /+
+# Assignment2 operators: =+, -+, *=, /+
 # Membership operators: in, not in
 # Identity operators: is, is not
 

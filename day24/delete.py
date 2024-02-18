@@ -1,5 +1,11 @@
 from estd_connection import estd_connection
 
+
+def delete():
+    pass
+
+
+
 cursor = estd_connection()
 
 id = input("Enter student id: ")
